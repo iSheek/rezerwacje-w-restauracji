@@ -1,0 +1,26 @@
+6.10
+@01 Nowak 11:30
+@02 Kubica 10:30
+@03 Kowalski 17:00
+@04 Roborowicz 13:30
+@05 Jedrzejski 15:30
+@06 Mostowiak 12:30
+@07 Wars 11:30
+
+12.10
+@01 Nowak 11:30
+@02 Kubica 10:30
+@03 Kowalski 17:00
+@04 Roborowicz 13:30
+@05 Jedrzejski 15:30
+@06 Mostowiak 12:30
+@07 Wars 11:30
+
+11.10
+@01 Nowak 11:30
+@02 Kubica 10:30
+@03 Kowalski 17:00
+@04 Roborowicz 13:30
+@05 Jedrzejski 15:30
+@06 Mostowiak 12:30
+@07 Wars 11:30
